@@ -22,5 +22,5 @@ optional arguments:
   -iv IV                An 80 bit initialization vector e.g.:
                         0x0000000000000000
   -f                    File
-python trivium.py -k 0x80000000000000000000 -iv 0x00000000000000000000 -f alice29.txt
+python trivium.py -k 0x80000000000000000000 -iv 0x00000000000000000000 -f testfile.txt
 ```
